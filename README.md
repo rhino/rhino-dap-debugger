@@ -1,1 +1,1 @@
-# rhino-dap-server
+# rhino-dap-debugger
